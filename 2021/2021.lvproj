@@ -49,6 +49,9 @@
 		<Item Name="Day 12" Type="Folder">
 			<Item Name="Day 12.lvlib" Type="Library" URL="../Day 12/Day 12.lvlib"/>
 		</Item>
+		<Item Name="Day 13" Type="Folder">
+			<Item Name="Day 13.lvlib" Type="Library" URL="../Day 13/Day 13.lvlib"/>
+		</Item>
 		<Item Name="Template" Type="Folder">
 			<Item Name="Day Template.lvlib" Type="Library" URL="../../Template/Day Template.lvlib"/>
 		</Item>
